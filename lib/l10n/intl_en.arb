@@ -1,0 +1,66 @@
+{
+  "appTitle": "flutter_bloc_app_template",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "itemsTitle": "Sample Items",
+  "@itemsTitle": {
+    "description": "The title of the sample items"
+  },
+  "messagesTitle": "Messages",
+  "@messagesTitle": {
+    "description": "The title of the messages screen"
+  },
+  "itemTitle": "Sample Item {id}",
+  "@itemTitle": {
+    "description": "The title of the item"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "The title of the settings"
+  },
+  "themeTitle": "Theme",
+  "@themeTitle": {},
+  "systemThemeTitle": "System Theme",
+  "@systemThemeTitle": {},
+  "lightThemeTitle": "Light Theme",
+  "@lightThemeTitle": {},
+  "darkThemeTitle": "Dark Theme",
+  "@darkThemeTitle": {},
+  "yellowThemeTitle": "Yellow Theme",
+  "@yellowThemeTitle": {},
+  "experimentalThemeTitle": "Experimental Theme",
+  "@experimentalThemeTitle": {},
+  "itemDetailsTitle": "Item Details",
+  "@itemDetailsTitle": {
+    "description": "The title of the Item Details screen"
+  },
+  "error": "Error",
+  "@error": {},
+  "emptyList": "Empty list",
+  "@emptyList": {},
+  "tabHome": "Home",
+  "@tabHome": {},
+  "tabSettings": "Settings",
+  "@tabSettings": {},
+  "newsScreen": "News",
+  "@newsScreen": {},
+  "disabledButtonTitle": "Disabled",
+  "@disabledButtonTitle": {},
+  "disabledRoundedButtonTitle": "Disabled Rounded",
+  "@disabledRoundedButtonTitle": {},
+  "disabledWithIconButtonTitle": "Disabled With Icon",
+  "@disabledWithIconButtonTitle": {},
+  "enabledButtonTitle": "Enabled",
+  "@enabledButtonTitle": {},
+  "borderRadiusButtonTitle": "BorderRadius",
+  "@borderRadiusButtonTitle": {},
+  "borderSideButtonTitle": "BorderSide",
+  "@borderSideButtonTitle": {},
+  "iconButtonTitle": "With Icon",
+  "@iconButtonTitle": {},
+  "iconAndPaddingButtonTitle": "With Icon Padding",
+  "@iconAndPaddingButtonTitle": {},
+  "transparentButtonTitle": "Transparent",
+  "@transparentButtonTitle": {}
+}
